@@ -2,7 +2,7 @@
   
 "scripts": {
   "install": "cd server && npm install",
-  "build": "cd server && npm install && npm run build"
+  
 }
 
 }
