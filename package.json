@@ -1,9 +1,15 @@
 {
-  "scripts": {
-    "start": "cd server && npm start",
-    "install": "cd server && npm install",
-    "build": "cd server && npm run build"
-  },
+  
+    "scripts": {
+      "start": "cd server && npm start",
+      "install": "cd server && npm install"
+    },
+    "engines": {
+      "node": ">=14",
+      "npm": ">=6"
+    },
+  
+  
   "dependencies": {
     "react-router-dom": "^7.1.3"
   }
