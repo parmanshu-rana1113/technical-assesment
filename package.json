@@ -1,8 +1,5 @@
 {
-  
-"scripts": {
-  "install": "cd server && npm install",
-  
-}
-
+  "scripts": {
+    "install": "cd server && npm install"
+  }
 }
